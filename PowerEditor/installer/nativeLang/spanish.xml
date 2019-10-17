@@ -937,6 +937,14 @@
 				<Item id="1718" name="Extendido (\n, \r, \t, \0, \x...)"/>
 				<Item id="1720" name="&amp;. coincide con la nueva línea"/>
 			</FindInFinder>
+			<DoSaveOrNot title="Guardar"> 
+				<Item id="1761" name="¿Guardar fichero &quot;$STR_REPLACE$&quot; ?"/>
+				<Item id="6" name="Si"/>
+				<Item id="7" name="No"/>
+				<Item id="2" name="Cancelar"/>
+				<Item id="4" name="Si a todo"/>
+				<Item id="5" name="No a todo"/>
+			</DoSaveOrNot>				
 		</Dialog>
 		<MessageBox>
 			<!-- $INT_REPLACE$ is a place holder, don't translate it -->
